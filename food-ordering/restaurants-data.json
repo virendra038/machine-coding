@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Pizza Palace",
+    "id": 1,
+    "location": "Hightech city",
+    "rating": 3.5,
+    "eta": 25,
+    "tags": ["pizza","ice cream"],
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/18627369/1e77b0549c7ca9fe29e7f162fd9d32a6.jpg",
+    "isFavourite": false
+  },
+  {
+    "name": "Healthy Human",
+    "id": 2,
+    "location": "Koramangla",
+    "rating": 4.5,
+    "eta": 20,
+    "tags": ["pizza","healthy"],
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/18627369/1e77b0549c7ca9fe29e7f162fd9d32a6.jpg",
+    "isFavourite": false
+  },
+  {
+    "name": "Pujabi Tadka",
+    "id": 3,
+    "location": "JP Nagar",
+    "rating": 4.8,
+    "eta": 30,
+    "tags": ["punjabi","Indian"],
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/18627369/1e77b0549c7ca9fe29e7f162fd9d32a6.jpg",
+    "isFavourite": false
+  },
+  {
+    "name": "Indian Tadka",
+    "id": 4,
+    "location": "Arekere",
+    "rating": 4.0,
+    "eta": 21,
+    "tags": ["pizza","Chinese","indian"],
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/18627369/1e77b0549c7ca9fe29e7f162fd9d32a6.jpg",
+    "isFavourite": false
+  },
+  {
+    "name": "Desi Pizza",
+    "id": 5,
+    "location": "Sarjapur Road",
+    "rating": 4.4,
+    "eta": 23,
+    "tags": ["italian","indian"],
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/18627369/1e77b0549c7ca9fe29e7f162fd9d32a6.jpg",
+    "isFavourite": false
+  },
+  {
+    "name": "South Tadka",
+    "id": 6,
+    "location": "White field",
+    "rating": 4.6,
+    "eta": 22,
+    "tags": ["south indian","north indian"],
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/18627369/1e77b0549c7ca9fe29e7f162fd9d32a6.jpg",
+    "isFavourite": false
+  }
+]

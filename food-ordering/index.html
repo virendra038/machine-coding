@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Food Ordering App</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body id="food_ordering_body">
+    <div>
+        <form onsubmit="getSearchResult(event)" id="search-header">
+            <input type="text" id="search-input" placeholder="search for the restaurant" class="search">
+            <button class="search_button" type="submit">Search</button>
+        </form>
+    </div>
+    <div id="filters-section">
+        <button id="show-fav" onclick="getFavorites()">Show Favorites</button>
+        <button id="show-all" onclick="getAlls()">Show All</button>
+        <div id="sortBy" style="display: inline-block">sort</div>
+    </div>
+    <div id="restaurant-containers"></div>
+    <script src="app.js"></script>
+
+</body>
+</html>
