@@ -1,0 +1,35 @@
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	background: #fafafa;
+}
+
+.container{
+	margin: 20px;
+	padding: 20px; 
+}
+
+.header{
+	display: flex;
+}
+
+.search{
+	font-size: 14px;
+	padding: 10px;
+	flex-grow: 3;
+}
+
+.filter{
+	flex-grow: 1;
+	padding: 10px;
+}
+
+.table{
+	width: 100%;
+	border: 2px solid #000;
+	margin-top: 10px;
+}
